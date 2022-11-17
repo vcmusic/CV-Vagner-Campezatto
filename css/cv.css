@@ -1,0 +1,251 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6.25rem;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.6875rem;
+  margin-top: 2px;
+}
+
+h3 {
+  font-family: 'Sacramento', cursive;
+  font-size: 3.3rem;
+  text-align: center;
+}
+
+p {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 1.5625rem;
+  font-weight: normal;
+  line-height: 2;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  border-color: white;
+  border-width: 10px;
+  width: 5%;
+}
+
+a {
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.bottom-container a {
+  background-color: #008891;
+  color: #191414;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+.bottom-container a:hover, a:active {
+  background-color: #191414;
+  color: #008891;
+}
+
+.intro-text {
+  font-size: 1.5rem;
+  width: 50%;
+  margin: auto;
+}
+
+.skills a {
+  background-color: #1DB954;
+  color: #191414;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.skills a:hover, a:active {
+  background-color: #191414;
+  color: #1DB954;
+}
+
+.top-container {
+  background-color: #008891;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 100px;
+}
+
+.bottom-container {
+  margin: 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 240px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.mountain {
+  width: 25%;
+}
+
+.skill-row {
+  background-color: #008891;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.skills {
+  position: relative;
+  background-color: #008891;
+  padding-bottom: 2px;
+  margin: 100px auto 0 auto;
+}
+
+.guitar {
+  float: left;
+  width: 15%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.musician {
+  padding-right: 100px;
+  text-align: center;
+}
+
+.coding {
+  float: right;
+  margin-right: 30px;
+  margin-left: 30px;
+  width: 15%;
+}
+
+.sound-waves {
+  float: right;
+  margin-right: 30px;
+  margin-left: 30px;
+  width: 15%;
+}
+
+.teaching {
+  float: left;
+  margin-right: 30px;
+  width: 15%;
+}
+
+.professional {
+  padding-bottom: 2px;
+  margin: 100px auto 100px auto;
+}
+
+.quatrum {
+  left: 50px;
+  padding-bottom: 125px;
+  text-align: center;
+  width: 15%;
+  padding-right: 100px;
+}
+
+.cultura {
+  padding-bottom: 100px;
+  text-align: center;
+  padding-right: 100px;
+}
+
+.kids {
+  text-align: center;
+  padding-bottom: 100px;
+  left: 45px;
+  width: 15%;
+}
+
+.ad {
+  font-size: 0.7rem;
+}
+
+.a {
+  text-align: center;
+}
+
+.contact-me {
+  background-color: white;
+  text-align: center;
+}
+
+.contact-me a {
+  background-color: #008891;
+  color: #191414;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  font-family: 'Luckiest Guy', cursive;
+  padding-left: 30px;
+}
+
+.contact-me a:hover, a:active {
+  background-color: #191414;
+  color: #008891;
+}
+
+.botao-spotify {
+  text-align: center
+}
+
+.experience {
+  text-align: center;
+}
+
+.copyright {
+  font-size: 1.2rem;
+}
+
+.space1 {
+  margin-top: 10%;
+}
+
+.space2 {
+  margin-top: 10%;
+}
+
+.space3 {
+  margin-top: 10%;
+}
+
+.space4 {
+  margin-top: 10%;
+}
+
+.space5 {
+  margin-top: 1%;
+}
+
+.space6 {
+  margin-top: 1%;
+}
+
+.space7 {
+  margin-top: 2%;
+}
